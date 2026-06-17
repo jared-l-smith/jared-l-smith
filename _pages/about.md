@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Public Service is the Core of Sustainable Urban Development."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Urban planning shouldn't be something that happens to you: a truly democratic city includes the residents affected by urban problems as partners in developing solutions. The role of planners is to provide insight into a problem’s root causes, make technical language accessible, and facilitate methods for neighbors to collaborate on ways to improve their community. Data in a vacuum is useless: it must be put in the right context to become impactful information.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+As a GIS analyst and urban development researcher, I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. My work focuses on affordable housing, community safety, and equitable economic development. If you need a partner in your mission to improve your city, please reach out: my experience and enthusiasm will be an asset to your work.!
 
 A data-driven personal website
 ======
