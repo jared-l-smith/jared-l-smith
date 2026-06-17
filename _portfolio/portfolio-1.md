@@ -4,8 +4,6 @@ excerpt: "A spatial data science project examining the effectiveness of Cook Cou
 collection: portfolio
 ---
 
-# False Alerts in Cook County’s Electronic Monitoring System
-
 **Date:** June 2025  
 **Tools Used:** Python | Pandas | GeoPandas
 
