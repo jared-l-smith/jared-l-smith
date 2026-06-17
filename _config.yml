@@ -23,7 +23,7 @@ repository               : "jared-l-smith/jared-l-smith.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jaredsmith-headshot.jpeg"
   name             : "Jared L. Smith"
   pronouns         : "he/him"  
   bio              : "Civic Program Administrator, Urban Development Research, and GIS Analyst."
