@@ -63,13 +63,13 @@ The results of Spearman's correlation analysis between building height and the r
 
 ## Rate of False Alerts and Building Density
 
-![Map showing the relationship between the rate of false alerts by zip and the average building density](../images/faz-dense-map.png)
+![Map showing the relationship between the rate of false alerts by zip and the average building density](/images/faz-dense-map.png)
 
 This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
 
 The zip codes with the highest building density are directly adjacent to the central downtown business district. The north and north-west sides of Chicago have higher building density than the south and south-west sides. There is a slight spatial pattern: the denser zip codes north of the loop also have higher false alert rates, but high false alert rates are not exclusive to those areas.
 
-![Scatterplot showing the relationship between building dense and false alerts](../images/faz-dense-scatterplot.png)
+![Scatterplot showing the relationship between building dense and false alerts](/images/faz-dense-scatterplot.png)
 
 The evidence suggests a weak association between the rate of false alerts and building density.
 
