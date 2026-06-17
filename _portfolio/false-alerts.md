@@ -47,13 +47,13 @@ I then combined the structural and false alert data with the zip code shapefile 
 
 ## Rate of False Alerts and Building Height
 
-![Map showing the relationship between the rate of false alerts by zip and the average building height](../images/faz-height-map.png)
+![Map showing the relationship between the rate of false alerts by zip and the average building height](/images/faz-height-map.png)
 
 This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
 
 There is a slight spatial pattern: false alert rates are high along the shore of Lake Michigan. These areas have a higher average building height, as many high-rise buildings line the lakefront. The zip codes with the highest average building height are in the downtown business district (the “Loop”), and zip codes farthest from the Loop have the lowest building height.
 
-![Scatterplot showing the relationship between building height and false alerts](../images/faz-height-scatterplot.png)
+![Scatterplot showing the relationship between building height and false alerts](/images/faz-height-scatterplot.png)
 
 The evidence suggests a weak association between the rate of false alerts and building height.
 
