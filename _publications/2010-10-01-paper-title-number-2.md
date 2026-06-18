@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "The Threat of Displacement: Eviction Filing Patterns in Chicago"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+category: research
+permalink: /publication/2026-11-06-threat-of-displacement
+excerpt: 'The capstone project for my Masters program. I study the spatial patterns of eviction filings in Chicago, and the household characteristics associated with a high risk of eviction.'
+date: 2026-11-06
+venue: 'Capstone Project, M.A. in Sustainable Urban Development, DePaul University.'
+slidesurl: 'https://jared-l-smith.github.io/files/threat-of-displacement.pdf'
+paperurl: 'https://jared-l-smith.github.io/files/displacement-slides.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
