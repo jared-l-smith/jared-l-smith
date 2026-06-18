@@ -1,7 +1,7 @@
 ---
 title: "Funding Vehicles for Shared Equity Housing"
 collection: publications
-category: policy
+category: research
 permalink: /publication/2025-15-03-funding-shared-equity-housing
 excerpt: 'Market-rate housing alone will not solve the housing crisis.'
 date: 2025-15-03
