@@ -40,7 +40,7 @@ Technology
 
 Featured Projects
 ======
-This section coming soon! I just need to upload my various projects to this site, and format them appropiatley. 
+This section coming soon! I just need to upload my various projects to this site, and format them appropriately. 
 
 Contact
 ------
