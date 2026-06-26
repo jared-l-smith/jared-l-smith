@@ -16,7 +16,9 @@ collection: portfolio
 **Story‑Driven Communication:** Combined analytical insights with visual storytelling, making findings accessible to non‑technical viewers.
 
 
+
 # [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
+
 
 
 # About this Project:
