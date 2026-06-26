@@ -7,10 +7,10 @@ collection: portfolio
 **Date:** June 2025  
 **Tools Used:** Python | Pandas | GeoPandas
 
-## Overview
+# Overview
 This spatial data science project examined whether false alerts in Cook County’s electronic monitoring program are related to Chicago’s dense built environment. The core of the work centered on extensive data management, including cleaning large structural datasets and resolving missing ZIP codes through spatial joins. My work integrated multiple sources into a unified geocoded dataset, which laid the groundwork for accurate spatial analysis and correlation testing.
 
-## Skills Demonstrated
+# Skills Demonstrated
 **Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ instances with missing ZIP codes using spatial joins.
 
 **Large‑Scale Data Integration:** Combined seperate building structure data, false‑alert data, and shapefiles into a unified ZIP‑code‑level geocoded dataset.
