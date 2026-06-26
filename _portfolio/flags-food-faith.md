@@ -24,6 +24,6 @@ The StoryMap serves as the project's online gallery, allowing users to explore t
 
 Jonathan's portraits depicted the realities of small business ownership, while my maps highlighted the additional challenges owners face due to historic disinvestment. This collaboration helped raise awareness among viewers of the structural obstacles facing Black and Latine entrepreneurs and offered accessible insights to inform local conversations about economic equity and neighborhood investment. I was proud to use my GIS skills to creatively integrate art and geography, making this information accessible to those without a background in spatial data analysis.
 
-**[You can view the StoryMap by clicking here.]**(https://arcg.is/PfzTi)
+[You can view the StoryMap by clicking here.](https://arcg.is/PfzTi)
 
 **Please note:** The Flags, Food & Faith exhibit with the City of Chicago has officially ended. This project is now for professional development purposes only and does not reflect the views of the City or Jonathan Michael Castillo. 
