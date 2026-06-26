@@ -37,6 +37,5 @@ Technology
 
 **Communication:** Microsoft Word, Microsoft PowerPoint, Zoom
 
-Contact
-------
+# Contact
 See the sidebar for links to my email and LinkedIn page: these are the best ways to get in touch with me. 
