@@ -5,7 +5,7 @@ collection: portfolio
 ---
 **Date:** January 2025
 
-**Tools Used:** Arc GIS StoryMaps | Arc GIS Online | Microsoft Excel
+**Tools Used:** Arc GIS StoryMaps, Arc GIS Online, Microsoft Excel
 
 # Skills Demonstrated:
 
@@ -14,6 +14,7 @@ collection: portfolio
 **Data Visualization:** Designed six graphs that communicate disparity in business ownership among demographic groups.
 
 **Story‑Driven Communication:** Combined analytical insights with visual storytelling, making findings accessible to non‑technical viewers.
+
 
 # [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
 
